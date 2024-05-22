@@ -1,0 +1,5 @@
+a=input("Enter the sentence: ")
+b=a.split(' ')
+print(b)
+count=len(b)
+print(count)
